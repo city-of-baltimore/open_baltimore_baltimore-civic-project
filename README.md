@@ -2,7 +2,7 @@
 
 This includes code and resources for the [Meetup on March 11th, 2024](https://www.meetup.com/baltimore-civic-projectd/events/299357064/) at the Hampden Library.
 
-The Mayor's Office of Performance and Innovation and Baltimore City Information & Technology are working together to make improvements to the City's Open Data Repository. We're looking for a few types of feedback to improve the experience and the information that we share. 
+[The Mayor's Office of Performance and Innovation](https://opi.baltimorecity.gov/) and [Baltimore City Information & Technology](https://technology.baltimorecity.gov/) are working together to make improvements to the [City's Open Data Repository](https://data.baltimorecity.gov/). We're looking for a few types of feedback to improve the experience and the information that we share. 
 
 
 -- pic of breakout groups goes here --
