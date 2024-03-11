@@ -5,7 +5,7 @@ This includes code and resources for the [Meetup on March 11th, 2024](https://ww
 [The Mayor's Office of Performance and Innovation](https://opi.baltimorecity.gov/) and [Baltimore City Information & Technology](https://technology.baltimorecity.gov/) are working together to make improvements to the [City's Open Data Repository](https://data.baltimorecity.gov/). We're looking for a few types of feedback to improve the experience and the information that we share. 
 
 
-![alt text](https://github.com/city-of-baltimore/open_baltimore_baltimore-civic-project/blob/main/docs/Hack Night OB handout.png)
+![alt text](https://github.com/city-of-baltimore/open_baltimore_baltimore-civic-project/blob/main/docs/Hack%20Night%20OB%20handout.png)
 
 
 
@@ -26,7 +26,7 @@ This includes code and resources for the [Meetup on March 11th, 2024](https://ww
 
 ### Communications
 
-- [Input on our new feedback form](https://github.com/city-of-baltimore/open_baltimore_baltimore-civic-project/blob/main/docs/Hack Night OB Feedback form handout.docx)
+- [Input on our new feedback form](https://github.com/city-of-baltimore/open_baltimore_baltimore-civic-project/blob/main/docs/Hack%20Night%20OB%20Feedback%20form%20handout.docx)
 - Your preferences for how to receive updates
 
 
